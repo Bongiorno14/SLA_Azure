@@ -1,11 +1,11 @@
 # VARIAÇÕES DE DISPONIBLIDADE SLA
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Bongiorno14/Projeto_reconhecimento-_Rostos/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Bongiorno14/SLA_Azure/blob/main/LICENSE) 
 
 # Sobre o projeto
 
 Consiste na verificação dos rates de SLA disponibilizados atualmente na Azure (Mar/24), bem como exemplos práticos de utilizaçao para cada uma deles.\
 
-ë um projeto muito simples, mas de suma importancia, pois se durante o processo de desenvolvimento de um projeto náo efetuarmos a escolha adequada para a nossa necessidade, poderemos estar com um sistema que náo nos atenda ou talvez até pagando um valor muito mais alto, sem ter a real necessidade.
+É um projeto muito simples, mas de suma importancia, pois se durante o processo de desenvolvimento de um projeto náo efetuarmos a escolha adequada para a nossa necessidade, poderemos estar com um sistema que náo nos atenda ou talvez até pagando um valor muito mais alto, sem ter a real necessidade.
 
 Permaneço a disposiçao para maiores esclarecimentos e principalmente para receber críticas e sugestões da forma que venho conduzindo estes repositórios.
 

@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Consiste na verificação dos rates de SLA disponibilizados atualmente na Azure (Mar/24), bem como exemplos práticos de utilizaçao para cada uma deles.\
+Consiste na verificação dos rates de SLA disponibilizados atualmente na Azure (Mar/24), bem como exemplos práticos de utilizaçao para cada uma deles.
 
 É um projeto muito simples, mas de suma importancia, pois se durante o processo de desenvolvimento de um projeto náo efetuarmos a escolha adequada para a nossa necessidade, poderemos estar com um sistema que náo nos atenda ou talvez até pagando um valor muito mais alto, sem ter a real necessidade.
 
